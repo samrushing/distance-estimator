@@ -1,0 +1,1 @@
+./distpbm -1.26541935 -.41499480 .000005438 9000 6000 1500 1000 | pnmtopng > laptop.png; open laptop.png
